@@ -6,15 +6,16 @@ test: ../datasets/val/images
 
 # Classes
 names:
-  0: Folhas estreitas
-  1: Folhas largas
+  0: Agua
+  1: Arbusto grande
   2: Arbusto pequeno
-  3: Arbusto grande
-  4: Pasto
-  5: Solo exposto
-  6: Navalhao
-  7: Arvore
-  8: Agua
+  3: Arvore
+  4: Bananeira
+  5: Cupim
+  6: Folhas estreitas
+  7: Folhas largas
+  8: Navalhao
   9: Palmeira
-  10: Bananeira
+  10: Pasto
+  11: Solo exposto
 
