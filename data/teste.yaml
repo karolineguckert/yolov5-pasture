@@ -1,0 +1,20 @@
+
+train: ../datasets/train/images
+val: ../datasets/train/images
+test: ../datasets/val/images
+
+
+# Classes
+names:
+  0: Folhas estreitas
+  1: Folhas largas
+  2: Arbusto pequeno
+  3: Arbusto grande
+  4: Pasto
+  5: Solo exposto
+  6: Navalhao
+  7: Arvore
+  8: Agua
+  9: Palmeira
+  10: Bananeira
+
