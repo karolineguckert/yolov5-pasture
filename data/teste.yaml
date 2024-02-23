@@ -1,21 +1,21 @@
 
-train: ../datasets/train/images
+train: ../datasets/train/images/tamanho1
 val: ../datasets/train/images
 test: ../datasets/val/images
 
 
 # Classes
 names:
-  0: Agua
+  0: Agua #remover
   1: Arbusto grande
   2: Arbusto pequeno
   3: Arvore
-  4: Bananeira
-  5: Cupim
+  4: Bananeira #remover
+  5: Cupim #remover
   6: Folhas estreitas
   7: Folhas largas
   8: Navalhao
   9: Palmeira
   10: Pasto
-  11: Solo exposto
+  11: Solo exposto #remover
 
