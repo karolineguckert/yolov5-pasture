@@ -6,16 +6,25 @@ test: ../datasets/val/images
 
 # Classes
 names:
-  0: Agua #remover
-  1: Arbusto grande
-  2: Arbusto pequeno
-  3: Arvore
-  4: Bananeira #remover
-  5: Cupim #remover
-  6: Folhas estreitas
-  7: Folhas largas
-  8: Navalhao
-  9: Palmeira
-  10: Pasto
-  11: Solo exposto #remover
+#  #0: Agua #remover
+#  1: Arbusto grande # 0
+#  2: Arbusto pequeno # 1
+#  3: Arvore # 2
+#  #4: Bananeira #remover
+#  #5: Cupim #remover
+#  6: Folhas estreitas # 3
+#  7: Folhas largas # 4
+#  8: Navalhao # 5
+#  9: Palmeira # 6
+#  10: Pasto # 7
+#  #11: Solo exposto #remover
+
+  0: Arbusto grande # 0
+  1: Arbusto pequeno # 1
+  2: Arvore # 2
+  3: Folhas estreitas # 3
+  4: Folhas largas # 4
+  5: Navalhao # 5
+  6: Palmeira # 6
+  7: Pasto # 7
 
