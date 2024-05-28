@@ -1,7 +1,7 @@
 
-train: ../datasets/train/images/tamanho1
-val: ../datasets/train/images
-test: ../datasets/val/images
+train: ../datasets/train/images
+val: ../datasets/val/images
+test: ../datasets/test/images
 
 
 # Classes
@@ -19,12 +19,10 @@ names:
 #  10: Pasto # 7
 #  #11: Solo exposto #remover
 
-  0: Arbusto grande # 0
-  1: Arbusto pequeno # 1
-  2: Arvore # 2
-  3: Folhas estreitas # 3
-  4: Folhas largas # 4
-  5: Navalhao # 5
-  6: Palmeira # 6
-  7: Pasto # 7
+  0: Arbusto grande
+  1: Arbusto pequeno
+  2: Arvore
+  3: Capim capeta
+  4: Folhas estreitas
+  5: Folhas largas
 
